@@ -37,6 +37,37 @@ This project is a comprehensive desktop activity tracking application developed 
 3. Set up Google Drive API credentials:
     - Place your `credentials.json` file (obtained from Google API Console) in the project directory.
 
+*STEPS TO DO SO*
+To get the credentials.json file from the Google API Console, follow these steps:
+
+Go to the Google API Console:
+
+Visit Google API Console.
+Create a new project (if you don’t have one already):
+
+Click on the project dropdown on the top left.
+Click on "New Project."
+Enter a name for your project and click "Create."
+Enable the API you need:
+
+Go to the "Library" in the left sidebar.
+Search for the API you need (e.g., Google Drive API, Google Sheets API).
+Click on the API and then click "Enable."
+Create credentials:
+
+Go to the "Credentials" tab in the left sidebar.
+Click on "Create Credentials" and select "OAuth 2.0 Client IDs."
+If prompted, configure the consent screen by providing the necessary information (app name, user support email, etc.).
+Choose "Application type" based on your project (e.g., Desktop app, Web application).
+Enter a name for your credentials and click "Create."
+Download the credentials:
+
+Once the credentials are created, you'll see a "Download" button. Click on it to download the credentials.json file.
+Save this file in your project directory.
+Use the credentials:
+
+Place the credentials.json file in the directory where your application can access it.
+
 ## Usage
 
 1. Start the main application:
