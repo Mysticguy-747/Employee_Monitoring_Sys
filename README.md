@@ -89,3 +89,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or issues, please contact [Abhishek Yadav](abhishek.yadav_cs.aiml21@gla.ac.in).
+
+
+IMPORTANT
+On line 205 in drive_sync.py replace the path where u have created the folder that contain all the scripts
