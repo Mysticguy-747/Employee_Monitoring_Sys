@@ -84,7 +84,7 @@ Make sure to install the required Python modules using the provided `requirement
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+..........
 
 ## Contact
 
